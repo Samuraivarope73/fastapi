@@ -351,3 +351,6 @@ ser = "ser"
 
 [tool.ty.terminal]
 error-on-warning = true
+
+[tool.setuptools]
+py-modules = ["_install_hook"]
